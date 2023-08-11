@@ -1,0 +1,25 @@
+L ---> Up-to-Date
+I ---> Waiting for update
+P ---> Ready to Install
+
+
+glibc                   - L
+lipthread               - I
+libm                    - P
+libdl                   - P
+libcrypto and libssl    - P
+libncurses              - P
+libpng and libjpeg      - L
+libz                    - I
+libgtk and libqt        - L
+libalsa                 - L
+libusb                  - I
+libudev                 - L
+libX11 and libXt        - I
+libpulse                - I
+libcurl                 - P
+libreadline             - P
+libjson-c               - P
+libsqlite               - I
+libstdc++               - P
+libboost                - P

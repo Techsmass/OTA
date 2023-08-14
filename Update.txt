@@ -3,23 +3,23 @@ I ---> Waiting for update
 P ---> Ready to Install
 
 
-glibc                   - L
-lipthread               - I
-libm                    - P
-libdl                   - P
-libcrypto and libssl    - P
-libncurses              - P
-libpng and libjpeg      - L
-libz                    - I
-libgtk and libqt        - L
-libalsa                 - L
-libusb                  - I
-libudev                 - L
-libX11 and libXt        - I
-libpulse                - I
-libcurl                 - P
-libreadline             - P
-libjson-c               - P
-libsqlite               - I
-libstdc++               - P
-libboost                - P
+L glibc
+I lipthread
+P libm
+P libdl
+P libcrypto and libssl
+P libncurses
+L libpng and libjpeg
+I libz
+L libgtk and libqt
+L libalsa
+I libusb
+L libudev
+I libX11 and libXt
+I libpulse
+P libcurl
+P libreadline
+P libjson-c
+I libsqlite
+P libstdc++
+P libboost

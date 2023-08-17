@@ -10,10 +10,10 @@ update not available libjpeg
 updated libz
 updated libgtk and libqt
 update not available libalsa
-installlibusb
-installlibudev
+install libusb
+install libudev
 updated libX11
-updatedlibXt
+updated libXt
 updated libpulse
 install libcurl
 install libreadline

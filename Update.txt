@@ -1,25 +1,23 @@
-L ---> Up-to-Date
-I ---> Waiting for update
-P ---> Ready to Install
-
-
-L glibc
-I lipthread
-P libm
-P libdl
-P libcrypto and libssl
-P libncurses
-L libpng and libjpeg
-I libz
-L libgtk and libqt
-L libalsa
-I libusb
-L libudev
-I libX11 and libXt
-I libpulse
-P libcurl
-P libreadline
-P libjson-c
-I libsqlite
-P libstdc++
-P libboost
+update not available glibc
+updated lipthread
+install libm
+install libdl
+install libcrypto 
+updated libssl
+install libncurses
+update not available libpng
+update not available libjpeg
+updated libz
+updated libgtk and libqt
+update not available libalsa
+installlibusb
+installlibudev
+updated libX11
+updatedlibXt
+updated libpulse
+install libcurl
+install libreadline
+update not available libjson-c
+update not available libsqlite
+updated libstdc++
+install libboost
